@@ -5,8 +5,7 @@ NOTE: The project is based on Python 3.11.3 plateform running it on any other pl
 
 Step 1: Install all the libraries.
 
-Step 2: Run the application
-           python server.py
+Step 2: Run the python application server.py
 
 Step 3: Visit the localhost from your browser
 
